@@ -1,0 +1,37 @@
+# Python bytecode and optimizations
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+*/env/
+*/venv/
+
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Inno Setup output
+Setup-*.exe
+
+# Output Directories
+results/
+logs/
+
+# Editor and IDE temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.backup*
+*.orig
+*.pyc
+
+# OS and system files
+.DS_Store
+Thumbs.db
